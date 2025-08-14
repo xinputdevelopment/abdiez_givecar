@@ -2,7 +2,7 @@ fx_version 'cerulean'
 game 'gta5'
 
 author 'Abdiez'
-description '/geimport skript för sweden roleplay'
+description '/givecar script for fivem.'
 version '1.0.0'
 
 shared_scripts {
@@ -19,3 +19,4 @@ client_scripts {
 
 dependency 'oxmysql'
 dependency 'es_extended'
+
