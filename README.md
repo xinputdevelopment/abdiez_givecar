@@ -12,8 +12,8 @@ ESX resource for giving vehicles to players’ garages with `/givecar`. Generate
 ## 📦 Requirements
 - ⚙️ ESX (`es_extended`)
 - 🗄️ oxmysql or mysql-async
-- 🛑 Resource name must be `abdiez_geimport`
+- 🛑 Resource name must be `xinput_geimport`
 
 ## ⚙️ Installation
-1. 📂 Place in `resources` as `abdiez_geimport`
+1. 📂 Place in `resources` as `xinput_geimport`
 2. 📝 Add to `server.cfg`:
