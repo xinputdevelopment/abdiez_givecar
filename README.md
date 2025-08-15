@@ -1,4 +1,4 @@
-# 🚗 abdiez_geimport
+# 🚗 xinput_geimport
 
 ESX resource for giving vehicles to players’ garages with `/givecar`. Generates a plate and saves the vehicle to `owned_vehicles`.
 
